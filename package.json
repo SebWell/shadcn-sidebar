@@ -1,0 +1,26 @@
+{
+  "name": "shadcn-sidebar",
+  "version": "1.0.0",
+  "description": "Shadcn/UI Sidebar component for Weweb",
+  "main": "src/Sidebar.vue",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "keywords": [
+    "weweb",
+    "shadcn",
+    "ui",
+    "Sidebar",
+    "vue",
+    "component"
+  ],
+  "author": "Shadcn/UI for Weweb Community",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  }
+}
